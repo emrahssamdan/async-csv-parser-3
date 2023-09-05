@@ -16,7 +16,7 @@
     "papaparse": "^5.4.1"
   },
   "ampt": {
-    "app": "async-csv-parser",
+    "app": "async-csv-parser-3",
     "org": "emrah"
   },
   "files": [
